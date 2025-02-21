@@ -6,7 +6,7 @@ Hi! I'm Christine, an environmental data analyst passionate about preserving and
 - Geospatial Tools: ArcGIS, QGIS
 
 🐟 Featured Projects
-- Analyzing Long-Term Temperature Trends: Decomposing time series to identify local climate patterns"
+- Analyzing Long-Term Temperature Trends: Decomposing time series to identify local climate patterns
 
 💧 Coming Soon:
 - Tracking Biological Changes: Using multivariate techniques to reveal fish and benthic community shifts.
