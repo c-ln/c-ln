@@ -2,11 +2,14 @@ Hi! I'm Christine, an environmental data analyst passionate about preserving and
 
 🌊 Technical Toolkit
 - Programming: R
-- Data Visualization: ggplot2
+- Data Visualization: ggplot, (currently learning Power BI)
 - Geospatial Tools: ArcGIS, QGIS
 
 🐟 Featured Projects
-- Analyzing Long-Term Temperature Trends: Decomposing time series to identify local climate patterns
+- ecWx package: download Environment Canada climate data
+
+⌚ In progress:
+- Analyzing Long-Term Temperature Trends: Decomposing time series to forecast climate change
 
 💧 Coming Soon:
 - Tracking Biological Changes: Using multivariate techniques to reveal fish and benthic community shifts.
